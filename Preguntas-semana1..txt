@@ -1,79 +1,8 @@
-﻿Pregunta 1 — Selección múltiple
-¿Cuál de las siguientes opciones describe mejor qué es la ciudadanía digital?
+Pregunta 1:
+Respuesta: B
 
+Pregunta 2:
+Respuesta: C
 
-A. El uso de internet únicamente para entretenimiento
-B. El uso responsable de la tecnología para informarse, participar y compartir información de manera ética
-C. El uso de redes sociales sin restricciones
-D. El uso exclusivo de software comercial
-
-
-La respuesta correcta sería el B, ya que la ciudadanía digital implica comportarse de forma consiente, critica  y respetuosa en  entornos digitales, no solo es consumir contenido sino también  interactuar de manera muy responsable.
-
-
-
-
-Pregunta 2 — Selección múltiple
-¿Cuál es la razón principal por la que es importante verificar la información antes de compartirla en internet?
-
-
-A. Para que la publicación tenga más reacciones
-B. Para evitar consumir más datos móviles
-C. Para evitar difundir información falsa o engañosa
-D. Para que la publicación sea más extensa
-
-
-
-
-La respuesta correcta sería el C, ya que al verificar la información ayuda a frenar la desinformación y a mantener un entorno digital más confiable y responsable.
-
-
-
-
-
-
-Pregunta 3 — Selección múltiple
-¿Cuál de las siguientes opciones define mejor un algoritmo?
-
-
-A. Una aplicación móvil
-B. Una lista de pasos ordenados para resolver un problema
-C. Una carpeta del computador
-D. Una red social
-
-
-La respuesta correcta sería  el B, ya que pues un algoritmo es una secuencia lógica de instrucciones que permite llegar a una solución o realizar una tarea específica.
-
-
-
-
-
-
-La respuesta correcta es:
-
-
-C. Para evitar difundir información falsa o engañosa
-
-
-Verificar la información ayuda a frenar la desinformación y a mantener un entorno digital más confiable y responsable.
-
-
-
-
-Pregunta 3 — Selección múltiple
-¿Cuál de las siguientes opciones define mejor un algoritmo?
-
-
-A. Una aplicación móvil
-B. Una lista de pasos ordenados para resolver un problema
-C. Una carpeta del computador
-D. Una red social
-
-
-La respuesta correcta es:
-
-
-B. Una lista de pasos ordenados para resolver un problema
-
-
-Un algoritmo es una secuencia lógica de instrucciones que permite llegar a una solución o realizar una tarea específica.
+Pregunta 3:
+Respuesta: B
